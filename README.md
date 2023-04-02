@@ -10,7 +10,7 @@ Hinweis: Dieses Programm ist f&uuml;r **österreichische** Anwender vorgesehen.
 
 ## Installation
 
-Gehen Sie zu den [Ver&ouml;ffentlichungen](https://github.com/felixApps/ShutdownTimer/releases "
+Gehen Sie zu den [Ver&ouml;ffentlichungen](https://github.com/felixApps/DailyAppAustria/releases "
 Dieser Link f&uuml;hrt zu den Ver&ouml;ffentlichungen.") und laden Sie sich die passende Datei f&uuml;r Ihr Betriebssystem herunter. Linux und MacOS Nutzer m&uuml;ssen nach dem Download den ZIP-Ordner entpacken.
 Windows-Nutzer navigieren nach dem Download im Explorer in den Download-Ordner und machen einen Doppelklick auf die Datei "DailyAppInstallerWindows.exe".
 
