@@ -2,7 +2,7 @@
 
 Daily App ist die ideale Startseite - erhalten Sie mit einem Klick Zugriff auf die wichtigste Nachrichtenseite &Ouml;sterreichs und weitere Webseiten f&uuml;r Wetter, Radio, Fernsehen und Internetsuche!
 Verf&uuml;gbar f&uuml;r Windows, MacOS und Linux!
-![Screenshot des Programms]("Media/Screenshot.png")
+![Screenshot des Programms](Media/Screenshot.png)
 Hinweis: Dieses Programm ist f&uuml;r **österreichische** Anwender vorgesehen.
 
 
